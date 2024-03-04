@@ -9,8 +9,8 @@
     "Avax Testnet"
   ],
   "features": [
-    "swap",
-    "get_and_set_token_allowance",
-    "check_token_balance"
+    "evm_swap",
+    "evm_get_and_set_token_allowance",
+    "evm_check_token_balance"
   ]
 }
