@@ -9,6 +9,7 @@
     "Avax Testnet"
   ],
   "features": [
+    "change_network",
     "evm_swap",
     "evm_swap_snip",
     "evm_get_and_set_token_allowance",
