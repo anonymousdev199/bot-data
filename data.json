@@ -12,6 +12,7 @@
     "change_network",
     "evm_swap",
     "evm_swap_snip",
+    "evm_swap_launch",
     "evm_get_and_set_token_allowance",
     "evm_check_token_balance",
     "evm_transfer",
