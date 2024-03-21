@@ -6,7 +6,8 @@
   ],
   "networks": [
     "Avax",
-    "Avax Testnet"
+    "Avax Testnet",
+"Base"
   ],
   "features": [
     "change_network",
