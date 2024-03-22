@@ -11,14 +11,17 @@
   ],
   "features": [
     "change_network",
+    "generate_wallets",
     "evm_swap",
     "evm_swap_snip",
     "evm_swap_launch",
+    "evm_swap_multi_dex",
     "evm_get_and_set_token_allowance",
     "evm_check_token_balance",
     "evm_transfer",
     "evm_transfer_token",
     "evm_force_push_transaction",
-    "encrypt_private"
+    "encrypt_private",
+"evm_swap_base_to_wrap"
   ]
 }
