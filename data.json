@@ -17,6 +17,7 @@
     "evm_swap_snip",
     "evm_swap_launch",
     "evm_swap_multi_dex",
+    "evm_swap_tool",
     "evm_get_and_set_token_allowance",
     "evm_check_token_balance",
     "evm_transfer",
