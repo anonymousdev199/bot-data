@@ -8,7 +8,8 @@
     "Avax",
     "Avax Testnet",
     "Base",
-    "Degen"
+    "Degen",
+    "Linea"
   ],
   "features": [
     "change_network",
