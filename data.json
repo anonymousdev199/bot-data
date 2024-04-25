@@ -9,7 +9,8 @@
     "Avax Testnet",
     "Base",
     "Degen",
-    "Linea"
+    "Linea",
+    "Ethereum"
   ],
   "features": [
     "change_network",
