@@ -28,6 +28,10 @@
     "evm_transfer_token",
     "evm_force_push_transaction",
     "encrypt_private",
-"evm_swap_base_to_wrap"
+"evm_swap_base_to_wrap",
+      "sol_swap",
+    "sol_check_token_balance",
+    "sol_transfer",
+    "sol_transfer_token"
   ]
 }
