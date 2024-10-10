@@ -3,7 +3,8 @@
   "active": "52ec8706287cfa9fe1e4e999a0bdef67e4113b68b6bc2a7ecac8a8f48704397f",
   "chains": [
     "evm",
-    "sol"
+    "sol",
+    "sui"
   ],
   "networks": [
     "Avax",
